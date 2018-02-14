@@ -1,0 +1,6 @@
+C:\Users\eeiilni\source\repos\ConsoleToFindDirectoryCount\ConsoleToFindDirectoryCount\bin\Release\ConsoleToFindDirectoryCount.exe.config
+C:\Users\eeiilni\source\repos\ConsoleToFindDirectoryCount\ConsoleToFindDirectoryCount\bin\Release\ConsoleToFindDirectoryCount.exe
+C:\Users\eeiilni\source\repos\ConsoleToFindDirectoryCount\ConsoleToFindDirectoryCount\bin\Release\ConsoleToFindDirectoryCount.pdb
+C:\Users\eeiilni\source\repos\ConsoleToFindDirectoryCount\ConsoleToFindDirectoryCount\obj\Release\ConsoleToFindDirectoryCount.csproj.CoreCompileInputs.cache
+C:\Users\eeiilni\source\repos\ConsoleToFindDirectoryCount\ConsoleToFindDirectoryCount\obj\Release\ConsoleToFindDirectoryCount.exe
+C:\Users\eeiilni\source\repos\ConsoleToFindDirectoryCount\ConsoleToFindDirectoryCount\obj\Release\ConsoleToFindDirectoryCount.pdb
